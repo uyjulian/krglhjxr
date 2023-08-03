@@ -1,0 +1,7 @@
+[submodule "external/tp_stubz"]
+	path = external/tp_stubz
+	url = https://github.com/uyjulian/tp_stubz.git
+	branch = mingw
+[submodule "external/jxrlib"]
+	path = external/jxrlib
+	url = https://github.com/uyjulian/jxrlib.git
